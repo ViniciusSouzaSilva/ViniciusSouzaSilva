@@ -1,4 +1,4 @@
-## Olá! Eu sou Vinicius Silva, programador de jogos e aspirante a desenvolvedor full stack.
+## Olá! Eu sou Vinicius Silva, estudante de programação de jogos e front-end.
 
 <div align="center">
   <a href="https://github.com/ViniciusSouzaSilva">
