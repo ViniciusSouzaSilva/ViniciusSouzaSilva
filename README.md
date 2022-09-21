@@ -14,3 +14,9 @@
   <img align="center" alt="Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Unity" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg">
 </div>
+  
+  ##
+  
+<div>
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-souza-28b9101a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
