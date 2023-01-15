@@ -1,4 +1,4 @@
-## Olá! Eu sou Vinicius Silva, estudante de programação de jogos e front-end.
+## Olá! Eu sou Vinicius Silva, estudante de programação de jogos e desenvolvimento de softwares.
 
 <div align="center">
   <a href="https://github.com/ViniciusSouzaSilva">
