@@ -1,4 +1,4 @@
-## Olá! Eu sou Vinicius Silva, estudante de programação de jogos e desenvolvimento de softwares.
+## Meu nome é Vinicius, sou estudante de ADS e técnico em Programação de Jogos.
  
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
